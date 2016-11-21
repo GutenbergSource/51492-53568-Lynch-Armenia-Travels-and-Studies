@@ -1,0 +1,270 @@
+<images xmlns="http://www.gutenberg.ph/2006/schemas/imageinfo">
+<image path="images/book.png" filesize="364" filedate="2009-07-22 17:13:49" width="16px" height="16px">
+</image>
+<image path="images/card.png" filesize="249" filedate="2010-02-11 21:03:56" width="16px" height="11px">
+</image>
+<image path="images/external.png" filesize="172" filedate="2009-07-22 15:17:10" width="12px" height="12px">
+</image>
+<image path="images/fig001.jpg" filesize="42402" filedate="2016-03-04 20:01:19" width="605px" height="334px">
+</image>
+<image path="images/fig002.jpg" filesize="80549" filedate="2016-03-05 07:54:06" width="720px" height="489px">
+</image>
+<image path="images/fig003.jpg" filesize="60913" filedate="2016-03-06 14:50:56" width="720px" height="507px">
+</image>
+<image path="images/fig004.jpg" filesize="91774" filedate="2016-03-06 14:54:19" width="720px" height="500px">
+</image>
+<image path="images/fig005.jpg" filesize="51356" filedate="2016-03-06 14:57:33" width="561px" height="417px">
+</image>
+<image path="images/fig006.jpg" filesize="39598" filedate="2016-03-06 15:00:09" width="604px" height="381px">
+</image>
+<image path="images/fig007.jpg" filesize="61862" filedate="2016-03-06 15:03:34" width="720px" height="523px">
+</image>
+<image path="images/fig008.jpg" filesize="52115" filedate="2016-03-06 15:06:42" width="389px" height="532px">
+</image>
+<image path="images/fig009.jpg" filesize="44794" filedate="2016-03-06 15:10:28" width="313px" height="603px">
+</image>
+<image path="images/fig010.jpg" filesize="68621" filedate="2016-03-06 20:06:33" width="720px" height="505px">
+</image>
+<image path="images/fig011.jpg" filesize="53593" filedate="2016-03-06 20:11:01" width="720px" height="495px">
+</image>
+<image path="images/fig012.jpg" filesize="19018" filedate="2016-03-06 20:14:13" width="312px" height="422px">
+</image>
+<image path="images/fig013.jpg" filesize="80466" filedate="2016-03-06 20:18:31" width="519px" height="720px">
+</image>
+<image path="images/fig014.jpg" filesize="90519" filedate="2016-03-06 20:39:40" width="518px" height="720px">
+</image>
+<image path="images/fig015.jpg" filesize="53584" filedate="2016-03-06 20:46:29" width="720px" height="509px">
+</image>
+<image path="images/fig016.jpg" filesize="77444" filedate="2016-03-06 20:52:30" width="720px" height="512px">
+</image>
+<image path="images/fig017.jpg" filesize="84562" filedate="2016-03-06 20:54:53" width="607px" height="410px">
+</image>
+<image path="images/fig018.jpg" filesize="95441" filedate="2016-03-06 20:58:40" width="515px" height="720px">
+</image>
+<image path="images/fig019.jpg" filesize="53853" filedate="2016-03-06 21:01:38" width="426px" height="611px">
+</image>
+<image path="images/fig020.jpg" filesize="71332" filedate="2016-03-07 19:34:58" width="720px" height="498px">
+</image>
+<image path="images/fig021.jpg" filesize="90677" filedate="2016-03-07 19:38:27" width="720px" height="505px">
+</image>
+<image path="images/fig022.jpg" filesize="34240" filedate="2016-03-07 19:41:18" width="607px" height="334px">
+</image>
+<image path="images/fig023.jpg" filesize="69321" filedate="2016-03-07 19:44:16" width="720px" height="505px">
+</image>
+<image path="images/fig024.jpg" filesize="66397" filedate="2016-03-07 19:46:45" width="720px" height="510px">
+</image>
+<image path="images/fig025.jpg" filesize="45197" filedate="2016-03-06 20:42:48" width="336px" height="465px">
+</image>
+<image path="images/fig026.jpg" filesize="61939" filedate="2016-03-07 20:11:48" width="419px" height="579px">
+</image>
+<image path="images/fig027.jpg" filesize="41026" filedate="2016-03-07 20:14:49" width="425px" height="452px">
+</image>
+<image path="images/fig028.jpg" filesize="34492" filedate="2016-03-07 20:17:58" width="603px" height="333px">
+</image>
+<image path="images/fig029.jpg" filesize="58755" filedate="2016-03-07 20:21:09" width="720px" height="509px">
+</image>
+<image path="images/fig030.jpg" filesize="49971" filedate="2016-03-07 20:55:36" width="607px" height="428px">
+</image>
+<image path="images/fig031.jpg" filesize="83249" filedate="2016-03-08 19:51:05" width="412px" height="600px">
+</image>
+<image path="images/fig032.jpg" filesize="58372" filedate="2016-03-08 19:54:06" width="586px" height="430px">
+</image>
+<image path="images/fig033.jpg" filesize="47559" filedate="2016-03-08 19:56:17" width="417px" height="595px">
+</image>
+<image path="images/fig034.jpg" filesize="106767" filedate="2016-03-08 19:59:54" width="566px" height="720px">
+</image>
+<image path="images/fig035.jpg" filesize="92141" filedate="2016-03-08 20:03:15" width="720px" height="480px">
+</image>
+<image path="images/fig036.jpg" filesize="70280" filedate="2016-03-09 18:27:36" width="577px" height="438px">
+</image>
+<image path="images/fig037.jpg" filesize="65567" filedate="2016-03-09 18:23:16" width="720px" height="509px">
+</image>
+<image path="images/fig038.jpg" filesize="55521" filedate="2016-03-09 18:30:11" width="608px" height="434px">
+</image>
+<image path="images/fig039.jpg" filesize="103796" filedate="2016-03-09 18:33:43" width="720px" height="506px">
+</image>
+<image path="images/fig040.jpg" filesize="61290" filedate="2016-03-09 18:36:42" width="615px" height="435px">
+</image>
+<image path="images/fig041.jpg" filesize="58268" filedate="2016-03-09 18:38:52" width="601px" height="414px">
+</image>
+<image path="images/fig042.jpg" filesize="71539" filedate="2016-03-09 18:46:11" width="720px" height="515px">
+</image>
+<image path="images/fig043.jpg" filesize="50933" filedate="2016-03-09 18:48:14" width="442px" height="610px">
+</image>
+<image path="images/fig044.jpg" filesize="86658" filedate="2016-03-09 18:50:49" width="617px" height="433px">
+</image>
+<image path="images/fig045.jpg" filesize="62809" filedate="2016-03-09 18:53:38" width="604px" height="440px">
+</image>
+<image path="images/fig046.jpg" filesize="98995" filedate="2016-03-09 18:57:17" width="720px" height="522px">
+</image>
+<image path="images/fig047.jpg" filesize="84249" filedate="2016-03-09 18:59:09" width="612px" height="450px">
+</image>
+<image path="images/fig048.jpg" filesize="38254" filedate="2016-03-09 19:01:12" width="357px" height="461px">
+</image>
+<image path="images/fig049.jpg" filesize="91332" filedate="2016-03-09 19:04:46" width="720px" height="500px">
+</image>
+<image path="images/fig050.jpg" filesize="50223" filedate="2016-03-09 19:07:12" width="612px" height="374px">
+</image>
+<image path="images/fig051.jpg" filesize="40962" filedate="2016-03-10 19:40:59" width="604px" height="336px">
+</image>
+<image path="images/fig052.jpg" filesize="49993" filedate="2016-03-10 19:49:17" width="352px" height="554px">
+</image>
+<image path="images/fig053.jpg" filesize="98631" filedate="2016-03-10 19:52:26" width="720px" height="511px">
+</image>
+<image path="images/fig054.jpg" filesize="60333" filedate="2016-03-10 19:56:25" width="412px" height="565px">
+</image>
+<image path="images/fig055.jpg" filesize="94120" filedate="2016-03-10 19:58:52" width="510px" height="720px">
+</image>
+<image path="images/fig056-1.jpg" filesize="10787" filedate="2016-03-10 20:03:40" width="103px" height="720px">
+</image>
+<image path="images/fig056-2.jpg" filesize="11417" filedate="2016-03-10 20:04:02" width="101px" height="720px">
+</image>
+<image path="images/fig057.jpg" filesize="87637" filedate="2016-03-10 20:06:33" width="559px" height="720px">
+</image>
+<image path="images/fig058.jpg" filesize="77078" filedate="2016-03-10 20:10:28" width="720px" height="513px">
+</image>
+<image path="images/fig059.jpg" filesize="36777" filedate="2016-03-10 20:16:53" width="316px" height="439px">
+</image>
+<image path="images/fig060.jpg" filesize="83658" filedate="2016-03-10 20:14:18" width="540px" height="720px">
+</image>
+<image path="images/fig061.jpg" filesize="30427" filedate="2016-03-10 20:19:49" width="605px" height="253px">
+</image>
+<image path="images/fig062.jpg" filesize="100357" filedate="2016-03-12 10:28:50" width="522px" height="720px">
+</image>
+<image path="images/fig063.jpg" filesize="60403" filedate="2016-03-12 10:31:06" width="425px" height="506px">
+</image>
+<image path="images/fig064.jpg" filesize="31389" filedate="2016-03-12 10:34:41" width="244px" height="608px">
+</image>
+<image path="images/fig065.jpg" filesize="32602" filedate="2016-03-12 10:37:20" width="241px" height="607px">
+</image>
+<image path="images/fig066.jpg" filesize="34170" filedate="2016-03-12 10:39:18" width="242px" height="610px">
+</image>
+<image path="images/fig067.jpg" filesize="40740" filedate="2016-03-05 08:08:00" width="360px" height="522px">
+</image>
+<image path="images/fig068.jpg" filesize="31105" filedate="2016-03-12 10:43:54" width="602px" height="310px">
+</image>
+<image path="images/fig069.jpg" filesize="69211" filedate="2016-03-12 10:41:29" width="399px" height="720px">
+</image>
+<image path="images/fig070.jpg" filesize="75331" filedate="2016-03-12 10:46:45" width="720px" height="511px">
+</image>
+<image path="images/fig071.jpg" filesize="81663" filedate="2016-03-12 17:17:26" width="607px" height="423px">
+</image>
+<image path="images/fig072.jpg" filesize="74748" filedate="2016-03-12 17:21:12" width="720px" height="506px">
+</image>
+<image path="images/fig073.jpg" filesize="104376" filedate="2016-03-12 17:29:15" width="523px" height="720px">
+</image>
+<image path="images/fig074.jpg" filesize="94407" filedate="2016-03-12 17:32:45" width="524px" height="720px">
+</image>
+<image path="images/fig075.jpg" filesize="51621" filedate="2016-03-05 07:58:55" width="530px" height="499px">
+</image>
+<image path="images/fig076.jpg" filesize="85358" filedate="2016-03-12 17:35:09" width="509px" height="720px">
+</image>
+<image path="images/fig077.jpg" filesize="109130" filedate="2016-03-12 17:37:33" width="523px" height="720px">
+</image>
+<image path="images/fig078.jpg" filesize="96539" filedate="2016-03-12 17:39:35" width="513px" height="720px">
+</image>
+<image path="images/fig079.jpg" filesize="50535" filedate="2016-03-12 17:43:54" width="613px" height="362px">
+</image>
+<image path="images/fig080.jpg" filesize="73719" filedate="2016-03-13 06:40:45" width="520px" height="720px">
+</image>
+<image path="images/fig081.jpg" filesize="57642" filedate="2016-03-13 06:43:26" width="604px" height="436px">
+</image>
+<image path="images/fig082.jpg" filesize="77144" filedate="2016-03-13 06:49:54" width="460px" height="607px">
+</image>
+<image path="images/fig083.jpg" filesize="108592" filedate="2016-03-13 06:46:52" width="524px" height="720px">
+</image>
+<image path="images/fig084.jpg" filesize="47281" filedate="2016-03-09 18:43:33" width="613px" height="424px">
+</image>
+<image path="images/fig085.jpg" filesize="85262" filedate="2016-03-13 06:52:24" width="511px" height="720px">
+</image>
+<image path="images/fig086.jpg" filesize="83414" filedate="2016-03-13 06:54:45" width="516px" height="720px">
+</image>
+<image path="images/fig087.jpg" filesize="86360" filedate="2016-03-13 06:57:32" width="511px" height="720px">
+</image>
+<image path="images/fig088.jpg" filesize="82005" filedate="2016-03-13 07:01:08" width="523px" height="720px">
+</image>
+<image path="images/fig089.jpg" filesize="41179" filedate="2016-03-12 18:04:16" width="598px" height="420px">
+</image>
+<image path="images/fig090.jpg" filesize="93042" filedate="2016-03-13 07:04:17" width="504px" height="720px">
+</image>
+<image path="images/fig091.jpg" filesize="91565" filedate="2016-03-13 07:07:06" width="527px" height="720px">
+</image>
+<image path="images/fig092.jpg" filesize="85834" filedate="2016-03-13 07:13:10" width="720px" height="510px">
+</image>
+<image path="images/fig093.jpg" filesize="44159" filedate="2016-03-13 07:10:24" width="615px" height="455px">
+</image>
+<image path="images/fig094.jpg" filesize="44583" filedate="2016-03-13 07:15:46" width="604px" height="380px">
+</image>
+<image path="images/fig095.jpg" filesize="83804" filedate="2016-03-12 17:46:30" width="504px" height="720px">
+</image>
+<image path="images/fig096.jpg" filesize="81160" filedate="2016-03-13 07:19:02" width="720px" height="510px">
+</image>
+<image path="images/fig097.jpg" filesize="81057" filedate="2016-03-12 18:11:33" width="515px" height="720px">
+</image>
+<image path="images/fig098.jpg" filesize="81457" filedate="2016-03-13 08:46:15" width="486px" height="614px">
+</image>
+<image path="images/fig099.jpg" filesize="48654" filedate="2016-03-05 08:03:31" width="422px" height="592px">
+</image>
+<image path="images/fig100.jpg" filesize="48579" filedate="2016-03-12 17:59:11" width="609px" height="432px">
+</image>
+<image path="images/fig101.jpg" filesize="38190" filedate="2016-03-13 08:49:04" width="597px" height="361px">
+</image>
+<image path="images/fig102.jpg" filesize="42562" filedate="2016-03-13 08:51:16" width="605px" height="354px">
+</image>
+<image path="images/fig103.jpg" filesize="48103" filedate="2016-03-13 08:53:20" width="608px" height="403px">
+</image>
+<image path="images/fig104.jpg" filesize="67723" filedate="2016-03-13 08:55:24" width="720px" height="493px">
+</image>
+<image path="images/fig105.jpg" filesize="57074" filedate="2016-03-13 08:57:21" width="606px" height="427px">
+</image>
+<image path="images/fig106-h.jpg" filesize="185591" filedate="2016-03-12 17:55:41" width="2103px" height="798px">
+</image>
+<image path="images/fig106.jpg" filesize="31939" filedate="2016-03-12 17:55:11" width="720px" height="273px">
+</image>
+<image path="images/fig107.jpg" filesize="78113" filedate="2016-03-13 08:59:27" width="720px" height="505px">
+</image>
+<image path="images/frontispiece-h.jpg" filesize="208318" filedate="2016-03-04 19:49:09" width="2630px" height="821px">
+</image>
+<image path="images/frontispiece.jpg" filesize="22439" filedate="2016-03-04 19:48:34" width="720px" height="225px">
+</image>
+<image path="images/map01-h.jpg" filesize="292757" filedate="2016-03-05 08:17:05" width="1276px" height="1428px">
+</image>
+<image path="images/map01.jpg" filesize="101857" filedate="2016-03-05 08:16:43" width="643px" height="720px">
+</image>
+<image path="images/map02-h.jpg" filesize="189382" filedate="2016-03-05 08:25:20" width="962px" height="1368px">
+</image>
+<image path="images/map02.jpg" filesize="68820" filedate="2016-03-05 08:24:57" width="506px" height="720px">
+</image>
+<image path="images/map03-h.png" filesize="263426" filedate="2016-03-08 20:36:52" width="2031px" height="1414px">
+</image>
+<image path="images/map03.png" filesize="50463" filedate="2016-03-08 20:36:01" width="720px" height="501px">
+</image>
+<image path="images/map04-h.jpg" filesize="339129" filedate="2016-03-13 07:31:47" width="1323px" height="1385px">
+</image>
+<image path="images/map04.jpg" filesize="117777" filedate="2016-03-13 07:31:14" width="688px" height="720px">
+</image>
+<image path="images/map05-h.jpg" filesize="490212" filedate="2016-03-13 08:43:56" width="1548px" height="1366px">
+</image>
+<image path="images/map05.jpg" filesize="133514" filedate="2016-03-13 08:44:33" width="720px" height="635px">
+</image>
+<image path="images/map06-h.jpg" filesize="960819" filedate="2016-03-13 09:31:29" width="1984px" height="1523px">
+</image>
+<image path="images/map06.jpg" filesize="141801" filedate="2016-03-13 09:30:52" width="720px" height="553px">
+</image>
+<image path="images/map08-h.png" filesize="172367" filedate="2016-03-10 20:26:30" width="1522px" height="861px">
+</image>
+<image path="images/map08.png" filesize="57229" filedate="2016-03-10 20:27:12" width="720px" height="407px">
+</image>
+<image path="images/new-cover-tn.jpg" filesize="17618" filedate="2016-03-13 20:20:50" width="213px" height="320px">
+</image>
+<image path="images/new-cover.jpg" filesize="73923" filedate="2016-03-13 20:20:16" width="480px" height="720px">
+</image>
+<image path="images/p030-1.png" filesize="789" filedate="2016-03-04 20:24:30" width="57px" height="57px">
+</image>
+<image path="images/p030-2.png" filesize="1466" filedate="2016-03-04 20:27:01" width="210px" height="52px">
+</image>
+<image path="images/rbrace2.png" filesize="236" filedate="2015-09-13 20:21:58" width="12px" height="40px">
+</image>
+<image path="images/titlepage.png" filesize="13219" filedate="2016-03-04 19:55:31" width="403px" height="720px">
+</image>
+</images>

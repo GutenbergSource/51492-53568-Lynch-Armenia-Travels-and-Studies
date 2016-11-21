@@ -1,0 +1,16 @@
+
+.total {
+    text-align: right;
+}
+
+div.footnote-body {
+    -webkit-column-count: 2;
+    -moz-column-count: 2;
+    column-count: 2;
+}
+
+div.Bibliography .divBody {
+    -webkit-column-count: 2;
+    -moz-column-count: 2;
+    column-count: 2;
+}

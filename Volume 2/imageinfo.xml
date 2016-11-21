@@ -1,0 +1,238 @@
+<images xmlns="http://www.gutenberg.ph/2006/schemas/imageinfo">
+<image path="images/book.png" filesize="364" filedate="2009-07-22 17:13:49" width="16px" height="16px">
+</image>
+<image path="images/card.png" filesize="249" filedate="2010-02-11 21:03:56" width="16px" height="11px">
+</image>
+<image path="images/external.png" filesize="172" filedate="2009-07-22 15:17:10" width="12px" height="12px">
+</image>
+<image path="images/fig108.jpg" filesize="71978" filedate="2016-06-26 11:17:58" width="720px" height="432px">
+</image>
+<image path="images/fig109.jpg" filesize="83780" filedate="2016-06-26 11:26:19" width="531px" height="720px">
+</image>
+<image path="images/fig110.jpg" filesize="79805" filedate="2016-10-28 19:16:06" width="510px" height="720px">
+</image>
+<image path="images/fig111.jpg" filesize="43375" filedate="2016-10-28 19:18:55" width="608px" height="295px">
+</image>
+<image path="images/fig112.jpg" filesize="54814" filedate="2016-10-28 19:28:25" width="720px" height="369px">
+</image>
+<image path="images/fig113.jpg" filesize="35651" filedate="2016-10-28 19:25:36" width="607px" height="294px">
+</image>
+<image path="images/fig114.jpg" filesize="83724" filedate="2016-10-28 19:31:23" width="510px" height="720px">
+</image>
+<image path="images/fig115.jpg" filesize="70909" filedate="2016-10-28 19:34:46" width="520px" height="720px">
+</image>
+<image path="images/fig116.jpg" filesize="44245" filedate="2016-10-29 19:42:30" width="720px" height="302px">
+</image>
+<image path="images/fig117.jpg" filesize="39632" filedate="2016-10-29 19:44:43" width="602px" height="290px">
+</image>
+<image path="images/fig118.jpg" filesize="35076" filedate="2016-10-29 19:47:09" width="604px" height="288px">
+</image>
+<image path="images/fig119.jpg" filesize="26236" filedate="2016-10-29 19:49:03" width="604px" height="244px">
+</image>
+<image path="images/fig120.jpg" filesize="35122" filedate="2016-10-29 19:50:58" width="608px" height="287px">
+</image>
+<image path="images/fig121.jpg" filesize="51970" filedate="2016-10-29 19:53:19" width="607px" height="422px">
+</image>
+<image path="images/fig122.jpg" filesize="80275" filedate="2016-10-29 19:55:40" width="435px" height="622px">
+</image>
+<image path="images/fig123.jpg" filesize="40345" filedate="2016-10-29 19:59:28" width="720px" height="282px">
+</image>
+<image path="images/fig124.jpg" filesize="69654" filedate="2016-10-28 19:38:52" width="556px" height="486px">
+</image>
+<image path="images/fig125.jpg" filesize="48407" filedate="2016-10-28 19:45:23" width="443px" height="368px">
+</image>
+<image path="images/fig126.jpg" filesize="19148" filedate="2016-10-28 19:48:08" width="270px" height="354px">
+</image>
+<image path="images/fig127.jpg" filesize="39385" filedate="2016-10-30 09:08:47" width="602px" height="377px">
+</image>
+<image path="images/fig128.jpg" filesize="59216" filedate="2016-10-30 09:10:43" width="419px" height="586px">
+</image>
+<image path="images/fig129.jpg" filesize="65331" filedate="2016-10-30 09:12:48" width="612px" height="427px">
+</image>
+<image path="images/fig130.jpg" filesize="47135" filedate="2016-10-30 09:16:22" width="388px" height="542px">
+</image>
+<image path="images/fig131.jpg" filesize="94543" filedate="2016-10-30 09:20:05" width="509px" height="720px">
+</image>
+<image path="images/fig132.jpg" filesize="121871" filedate="2016-10-30 09:23:42" width="511px" height="720px">
+</image>
+<image path="images/fig133.jpg" filesize="54001" filedate="2016-10-30 09:25:48" width="417px" height="592px">
+</image>
+<image path="images/fig134.jpg" filesize="96107" filedate="2016-10-30 09:28:23" width="523px" height="720px">
+</image>
+<image path="images/fig135.jpg" filesize="69108" filedate="2016-10-30 09:30:44" width="720px" height="484px">
+</image>
+<image path="images/fig136.jpg" filesize="60880" filedate="2016-10-30 09:33:18" width="608px" height="426px">
+</image>
+<image path="images/fig137.jpg" filesize="63580" filedate="2016-10-31 18:54:37" width="395px" height="600px">
+</image>
+<image path="images/fig138.jpg" filesize="56329" filedate="2016-10-31 18:57:55" width="607px" height="419px">
+</image>
+<image path="images/fig139.jpg" filesize="43953" filedate="2016-10-31 19:00:43" width="594px" height="352px">
+</image>
+<image path="images/fig140.jpg" filesize="50683" filedate="2016-10-31 19:03:14" width="607px" height="377px">
+</image>
+<image path="images/fig141.jpg" filesize="98460" filedate="2016-10-31 19:05:32" width="510px" height="720px">
+</image>
+<image path="images/fig142.jpg" filesize="91366" filedate="2016-10-31 19:08:46" width="509px" height="720px">
+</image>
+<image path="images/fig143.jpg" filesize="96387" filedate="2016-10-31 19:11:28" width="511px" height="720px">
+</image>
+<image path="images/fig144.jpg" filesize="54734" filedate="2016-10-31 19:13:16" width="616px" height="389px">
+</image>
+<image path="images/fig145.jpg" filesize="51433" filedate="2016-10-31 19:16:39" width="720px" height="412px">
+</image>
+<image path="images/fig146.jpg" filesize="64743" filedate="2016-11-05 12:30:40" width="720px" height="504px">
+</image>
+<image path="images/fig147.jpg" filesize="61746" filedate="2016-10-31 19:33:37" width="610px" height="436px">
+</image>
+<image path="images/fig148.jpg" filesize="67929" filedate="2016-11-04 19:35:43" width="609px" height="447px">
+</image>
+<image path="images/fig149.jpg" filesize="60003" filedate="2016-11-04 19:37:44" width="609px" height="438px">
+</image>
+<image path="images/fig150.jpg" filesize="52565" filedate="2016-11-04 19:40:52" width="720px" height="384px">
+</image>
+<image path="images/fig151.jpg" filesize="39316" filedate="2016-11-04 19:43:08" width="603px" height="341px">
+</image>
+<image path="images/fig152.jpg" filesize="94013" filedate="2016-10-31 19:30:09" width="511px" height="720px">
+</image>
+<image path="images/fig153.jpg" filesize="54933" filedate="2016-11-04 19:45:29" width="604px" height="422px">
+</image>
+<image path="images/fig154.jpg" filesize="77970" filedate="2016-11-04 19:49:02" width="509px" height="720px">
+</image>
+<image path="images/fig155.jpg" filesize="78803" filedate="2016-11-04 19:51:23" width="720px" height="507px">
+</image>
+<image path="images/fig156.jpg" filesize="59238" filedate="2016-11-04 19:54:40" width="498px" height="720px">
+</image>
+<image path="images/fig157.jpg" filesize="70162" filedate="2016-11-04 19:57:38" width="720px" height="488px">
+</image>
+<image path="images/fig158.jpg" filesize="79617" filedate="2016-11-04 20:00:17" width="512px" height="720px">
+</image>
+<image path="images/fig159.jpg" filesize="50152" filedate="2016-11-04 20:02:21" width="720px" height="383px">
+</image>
+<image path="images/fig160.jpg" filesize="44109" filedate="2016-11-04 20:04:53" width="396px" height="458px">
+</image>
+<image path="images/fig161.jpg" filesize="83604" filedate="2016-11-05 11:59:59" width="720px" height="492px">
+</image>
+<image path="images/fig162.jpg" filesize="48686" filedate="2016-11-05 12:02:57" width="608px" height="409px">
+</image>
+<image path="images/fig163.jpg" filesize="60873" filedate="2016-11-05 12:05:05" width="720px" height="501px">
+</image>
+<image path="images/fig164.jpg" filesize="67389" filedate="2016-11-05 12:07:27" width="606px" height="491px">
+</image>
+<image path="images/fig165.jpg" filesize="82906" filedate="2016-11-05 12:10:07" width="720px" height="506px">
+</image>
+<image path="images/fig166.jpg" filesize="91206" filedate="2016-11-05 12:12:06" width="514px" height="720px">
+</image>
+<image path="images/fig167.jpg" filesize="79364" filedate="2016-11-05 12:16:58" width="611px" height="507px">
+</image>
+<image path="images/fig168.jpg" filesize="83554" filedate="2016-11-05 12:14:37" width="612px" height="438px">
+</image>
+<image path="images/fig169.jpg" filesize="70976" filedate="2016-11-05 12:19:19" width="501px" height="462px">
+</image>
+<image path="images/fig170.jpg" filesize="17629" filedate="2016-11-05 12:21:53" width="600px" height="235px">
+</image>
+<image path="images/fig171.jpg" filesize="60687" filedate="2016-11-05 15:39:06" width="720px" height="491px">
+</image>
+<image path="images/fig172.jpg" filesize="29351" filedate="2016-11-05 15:40:46" width="599px" height="307px">
+</image>
+<image path="images/fig173.jpg" filesize="43967" filedate="2016-11-05 15:42:26" width="445px" height="438px">
+</image>
+<image path="images/fig174.jpg" filesize="62663" filedate="2016-11-05 15:45:04" width="720px" height="412px">
+</image>
+<image path="images/fig175.jpg" filesize="106709" filedate="2016-11-05 15:49:01" width="720px" height="513px">
+</image>
+<image path="images/fig176.jpg" filesize="88781" filedate="2016-11-05 21:59:32" width="720px" height="528px">
+</image>
+<image path="images/fig177.jpg" filesize="48236" filedate="2016-11-05 22:02:50" width="720px" height="314px">
+</image>
+<image path="images/fig178.jpg" filesize="74814" filedate="2016-11-05 22:05:06" width="607px" height="435px">
+</image>
+<image path="images/fig179.jpg" filesize="51973" filedate="2016-11-05 22:07:15" width="720px" height="335px">
+</image>
+<image path="images/fig180.jpg" filesize="39927" filedate="2016-10-28 19:42:23" width="319px" height="333px">
+</image>
+<image path="images/fig181.jpg" filesize="55451" filedate="2016-06-19 15:25:14" width="720px" height="507px">
+</image>
+<image path="images/fig182.jpg" filesize="70945" filedate="2016-10-28 19:22:51" width="516px" height="720px">
+</image>
+<image path="images/fig183.jpg" filesize="20708" filedate="2016-10-30 09:37:15" width="257px" height="407px">
+</image>
+<image path="images/fig184.jpg" filesize="74167" filedate="2016-11-05 22:23:38" width="720px" height="510px">
+</image>
+<image path="images/fig185.jpg" filesize="60520" filedate="2016-11-05 22:27:04" width="720px" height="502px">
+</image>
+<image path="images/fig186.jpg" filesize="38131" filedate="2016-11-09 18:54:55" width="607px" height="373px">
+</image>
+<image path="images/fig187.jpg" filesize="62907" filedate="2016-11-09 19:20:39" width="609px" height="440px">
+</image>
+<image path="images/fig188.jpg" filesize="56203" filedate="2016-11-09 19:23:29" width="720px" height="500px">
+</image>
+<image path="images/fig189.jpg" filesize="34419" filedate="2016-11-09 19:25:40" width="606px" height="402px">
+</image>
+<image path="images/fig190.jpg" filesize="64629" filedate="2016-11-09 19:28:00" width="720px" height="497px">
+</image>
+<image path="images/fig191.jpg" filesize="72935" filedate="2016-11-09 19:30:24" width="720px" height="501px">
+</image>
+<image path="images/fig192.jpg" filesize="76242" filedate="2016-11-09 19:33:35" width="720px" height="504px">
+</image>
+<image path="images/fig193.jpg" filesize="80377" filedate="2016-11-09 19:37:09" width="720px" height="454px">
+</image>
+<image path="images/fig194.jpg" filesize="31028" filedate="2016-11-09 20:00:12" width="720px" height="195px">
+</image>
+<image path="images/fig194h.jpg" filesize="259355" filedate="2016-11-09 20:00:52" width="2729px" height="740px">
+</image>
+<image path="images/fig195.jpg" filesize="20578" filedate="2016-11-09 20:09:42" width="720px" height="126px">
+</image>
+<image path="images/fig195h.jpg" filesize="129013" filedate="2016-11-09 20:10:27" width="2048px" height="358px">
+</image>
+<image path="images/frontispiece.jpg" filesize="78834" filedate="2016-06-19 15:51:01" width="720px" height="510px">
+</image>
+<image path="images/mapAkhlat.jpg" filesize="79115" filedate="2016-11-09 19:43:57" width="720px" height="564px">
+</image>
+<image path="images/mapAkhlath.jpg" filesize="329896" filedate="2016-11-09 19:44:28" width="1748px" height="1370px">
+</image>
+<image path="images/mapBingol.jpg" filesize="131768" filedate="2016-11-10 10:03:40" width="664px" height="720px">
+</image>
+<image path="images/mapBingol2.jpg" filesize="161151" filedate="2016-11-10 10:10:47" width="720px" height="676px">
+</image>
+<image path="images/mapBingol2h.jpg" filesize="526520" filedate="2016-11-10 10:11:04" width="1485px" height="1395px">
+</image>
+<image path="images/mapBingolh.jpg" filesize="347979" filedate="2016-11-10 10:04:03" width="1236px" height="1340px">
+</image>
+<image path="images/mapBitlis.jpg" filesize="100976" filedate="2016-10-31 19:25:12" width="469px" height="720px">
+</image>
+<image path="images/mapBitlish.jpg" filesize="401369" filedate="2016-10-31 19:26:54" width="935px" height="1434px">
+</image>
+<image path="images/mapMelazkert.jpg" filesize="83293" filedate="2016-11-05 22:18:42" width="602px" height="720px">
+</image>
+<image path="images/mapMelazkerth.jpg" filesize="192429" filedate="2016-11-05 22:19:16" width="1046px" height="1250px">
+</image>
+<image path="images/mapNimrud.jpg" filesize="89637" filedate="2016-10-30 09:47:55" width="592px" height="720px">
+</image>
+<image path="images/mapNimrud2.jpg" filesize="101528" filedate="2016-11-10 09:47:34" width="720px" height="546px">
+</image>
+<image path="images/mapNimrud2h.jpg" filesize="497026" filedate="2016-11-10 09:48:05" width="1817px" height="1377px">
+</image>
+<image path="images/mapNimrudh.jpg" filesize="243223" filedate="2016-10-30 09:48:34" width="1132px" height="1377px">
+</image>
+<image path="images/mapSipan.jpg" filesize="84498" filedate="2016-11-10 09:55:00" width="442px" height="720px">
+</image>
+<image path="images/mapSipanh.jpg" filesize="303682" filedate="2016-11-10 09:55:26" width="914px" height="1488px">
+</image>
+<image path="images/mapVan.jpg" filesize="53179" filedate="2016-10-29 20:07:16" width="720px" height="412px">
+</image>
+<image path="images/mapVanh.jpg" filesize="317011" filedate="2016-10-29 20:07:56" width="2048px" height="1171px">
+</image>
+<image path="images/new-cover-tn.jpg" filesize="14822" filedate="2016-06-19 15:34:57" width="213px" height="320px">
+</image>
+<image path="images/new-cover.jpg" filesize="61170" filedate="2016-06-19 15:34:28" width="480px" height="720px">
+</image>
+<image path="images/p272.png" filesize="989" filedate="2016-06-19 15:45:26" width="222px" height="18px">
+</image>
+<image path="images/rbrace2.png" filesize="236" filedate="2015-09-13 20:21:58" width="12px" height="40px">
+</image>
+<image path="images/rbrace4.png" filesize="288" filedate="2015-09-13 20:24:14" width="16px" height="65px">
+</image>
+<image path="images/titlepage.png" filesize="13258" filedate="2016-06-26 11:12:34" width="408px" height="720px">
+</image>
+</images>
